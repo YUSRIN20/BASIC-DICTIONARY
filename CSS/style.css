@@ -1,0 +1,13 @@
+#card-div{
+    margin: 2em 0em;
+}
+
+p{
+    font-size: large;
+}
+#audio-div{
+    margin: 2em 0em;
+}
+#card-div{
+    box-shadow: 0 .125rem .5rem rgb(10, 9, 7);
+}
