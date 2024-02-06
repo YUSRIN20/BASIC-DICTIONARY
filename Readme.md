@@ -2,6 +2,9 @@
 
 This is a simple dictionary web application that allows users to search for word meanings along with audio pronunciation. The application is built using HTML, CSS, and JavaScript with Bootstrap for styling. It utilizes the Fetch API to retrieve word definitions from an external dictionary API.
 
+## Demo:
+
+Check out the live demo [here](https://basic-dictionary-app.netlify.app/)
 ## Features:
 
 1. **Search Functionality**: Users can enter a word into the search input field and click the search button or press Enter to fetch the meanings and pronunciation for that word.
